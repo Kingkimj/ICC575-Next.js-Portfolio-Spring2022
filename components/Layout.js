@@ -9,6 +9,7 @@ export default function Layout({ children }) {
         <Main>
             {children}
         </Main>
+        <Footer></Footer>
     </Fragment>
   }
 
