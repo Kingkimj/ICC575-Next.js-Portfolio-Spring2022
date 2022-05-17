@@ -85,15 +85,6 @@ export default function Home() {
                 </Link>
               </Paragraph>
             </Col>
-            <Col xs="12" sm="6" md="4">
-            <Image 
-            src="/images/10.jpg"
-            alt="Mag cover of quittr"
-            width="1500"
-            height="1000"
-            layout="responsive"
-            />
-            </Col>
           </Row>
         </Container>
      
