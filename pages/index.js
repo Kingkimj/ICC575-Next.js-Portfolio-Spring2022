@@ -78,7 +78,7 @@ export default function Home() {
             
               <Heading level="3">Fight for Your Life</Heading>
               <Paragraph>
-                <Link href="/projects/project-3">
+                <Link href="/projects/project-3-title">
                 <a>
                   View Project 
                 </a>
