@@ -30,11 +30,12 @@ export default function Home() {
             <Col xs="12" sm="6" md="4">
             <Image 
             src="/images/08.png"
-            alt="Book slipcover for Ocean Vuong On Earth We're Briefly Gorgeous"
+            alt="Woman resting just underneath the waters"
             width="1500"
             height="1000"
             layout="responsive"
             />
+
               <Heading level="3">Breach the Surface</Heading>
               <Paragraph>
                 <Link href="/projects/graphic-design">
@@ -47,12 +48,14 @@ export default function Home() {
 
             <Col xs="12" sm="6" md="4">
             <Image 
-            src="/images/08.jpg"
-            alt="Woman resting just underneath the waters"
+            src="/images/09.jpg"
+            alt="quittr"
             width="1500"
             height="1000"
             layout="responsive"
             />
+
+
               <Heading level="3">Launch of quittr</Heading>
               <Paragraph>
                 <Link href="/projects/project-2-title">
@@ -65,12 +68,14 @@ export default function Home() {
 
             <Col xs="12" sm="6" md="4">
             <Image 
-            src="/images/09.jpg"
+            src="/images/10.jpg"
             alt="Mag cover of quittr"
             width="1500"
             height="1000"
             layout="responsive"
             />
+
+            
               <Heading level="3">Fight for Your Life</Heading>
               <Paragraph>
                 <Link href="/projects/project-3">
