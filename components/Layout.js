@@ -1,12 +1,14 @@
-import styles from './layout.module.scss'
-import Header from './header'
-import Footer from './footer'
+import { Fragment } from 'react'
+import Header from './Header'
+import Footer from './Footer'
+import Main from './Main'
 
 export default function Layout({ children }) {
-    return <div className={styles.container}>
-        <Header></Header>
-        {children}
-        <Footer></Footer>
-        </div>
+    return <Fragment>
+        <Header />
+        <Main>
+            {children}
+        </Main>
+    </Fragment>
   }
 

@@ -1,6 +1,5 @@
 import styles from './footer.module.scss'
 
-
 import Col from './Col'  
 import Container from './Container'
 import Logo from './Logo'
