@@ -8,14 +8,14 @@ const ProjectThreePage = () => {
     return <Layout>
         <Container>
             <Image 
-            src="/images/08.png"
-            alt="Book slipcover for Ocean Vuong On Earth We're Briefly Gorgeous"
+            src="/images/10.jpg"
+            alt="Fight for your life"
             width="1500"
             height="1000"
             layout="responsive"
             />
-        <Heading level="1">Project 1 Title</Heading>
-        <Paragraph>This is a description about my project</Paragraph>
+        <Heading level="1">Fight For Your Life</Heading>
+        <Paragraph>Workers around the world say no more to exploitation.</Paragraph>
         </Container>
     </Layout>
 }

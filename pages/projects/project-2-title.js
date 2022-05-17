@@ -8,14 +8,14 @@ const ProjectTwoPage = () => {
     return <Layout>
         <Container>
             <Image 
-            src="/images/08.png"
-            alt="Book slipcover for Ocean Vuong On Earth We're Briefly Gorgeous"
+            src="/images/09.jpg"
+            alt="Cover for quittr magazine"
             width="1500"
             height="1000"
             layout="responsive"
             />
-        <Heading level="1">Project 2 Title</Heading>
-        <Paragraph>This is a description about my project</Paragraph>
+        <Heading level="1">quittr: Let Go and Take Back Control</Heading>
+        <Paragraph>In this issue, we explore the Great Resignation and see what it will take to keep the fight for workers' rights alive</Paragraph>
         </Container>
     </Layout>
 }
