@@ -35,7 +35,7 @@ export default function Home() {
             height="1000"
             layout="responsive"
             />
-              <Heading level="3">Project 1 title</Heading>
+              <Heading level="3">Breach the Surface</Heading>
               <Paragraph>
                 <Link href="/projects/graphic-design">
                 <a>
@@ -45,15 +45,15 @@ export default function Home() {
               </Paragraph>
             </Col>
 
-            <Col xs="12" sm="6" md="4">
+            <Col xs="12" sm="6" md="4" />
             <Image 
-            src="/images/02.jpg"
-            alt="Book slipcover for Ocean Vuong On Earth We're Briefly Gorgeous"
+            src="/images/08.jpg"
+            alt="Woman resting just underneath the waters"
             width="1500"
             height="1000"
             layout="responsive"
             />
-              <Heading level="3">Project 2 title</Heading>
+              <Heading level="3">Launch of quittr</Heading>
               <Paragraph>
                 <Link href="/projects/project-2-title">
                 <a>
@@ -63,15 +63,15 @@ export default function Home() {
               </Paragraph>
             </Col>
 
-            <Col xs="12" sm="6" md="4">
+            <Col xs="12" sm="6" md="4" />
             <Image 
-            src="/images/03.jpg"
-            alt="Book slipcover for Ocean Vuong On Earth We're Briefly Gorgeous"
+            src="/images/09.jpg"
+            alt="Mag cover of quittr"
             width="1500"
             height="1000"
             layout="responsive"
             />
-              <Heading level="3">Project 3 title</Heading>
+              <Heading level="3">Fight for Your Life</Heading>
               <Paragraph>
                 <Link href="/projects/project-3">
                 <a>
@@ -80,7 +80,16 @@ export default function Home() {
                 </Link>
               </Paragraph>
             </Col>
-            
+
+            <Col xs="12" sm="6" md="4" />
+            <Image 
+            src="/images/10.jpg"
+            alt="Mag cover of quittr"
+            width="1500"
+            height="1000"
+            layout="responsive"
+            />
+
           </Row>
         </Container>
      
