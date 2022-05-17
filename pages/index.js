@@ -45,7 +45,7 @@ export default function Home() {
               </Paragraph>
             </Col>
 
-            <Col xs="12" sm="6" md="4" />
+            <Col xs="12" sm="6" md="4">
             <Image 
             src="/images/08.jpg"
             alt="Woman resting just underneath the waters"
@@ -63,7 +63,7 @@ export default function Home() {
               </Paragraph>
             </Col>
 
-            <Col xs="12" sm="6" md="4" />
+            <Col xs="12" sm="6" md="4">
             <Image 
             src="/images/09.jpg"
             alt="Mag cover of quittr"
@@ -80,8 +80,7 @@ export default function Home() {
                 </Link>
               </Paragraph>
             </Col>
-
-            <Col xs="12" sm="6" md="4" />
+            <Col xs="12" sm="6" md="4">
             <Image 
             src="/images/10.jpg"
             alt="Mag cover of quittr"
@@ -89,7 +88,7 @@ export default function Home() {
             height="1000"
             layout="responsive"
             />
-
+            </Col>
           </Row>
         </Container>
      
